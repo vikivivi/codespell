@@ -28194,7 +28194,12 @@ trageting->targeting
 tragets->targets
 traiing->trailing, training,
 trailling->trailing
+trainig->training
+trainling->training
+trainng->training
+traked->tracked
 traker->tracker
+trakers->trackers
 traking->tracking
 traling->trailing, trialing,
 trama->trauma
@@ -28223,6 +28228,10 @@ tranformed->transformed
 tranforming->transforming
 tranforms->transforms
 tranient->transient
+tranients->transients
+tranistion->transition
+tranistioning->transitioning
+tranistions->transitions
 tranlatable->translatable
 tranlate->translate
 tranlated->translated
@@ -28237,9 +28246,15 @@ tranmitting->transmitting
 tranparent->transparent
 tranparently->transparently
 tranport->transport
+tranports->transports
 transacion->transaction
+transacions->transactions
+transaciton->transaction
+transacitons->transactions
 transaction-spacific->transaction-specific
+transactiona->transactions, transactional,
 transactoin->transaction
+transactoins->transactions
 transaition->translation, transition, transaction,
 transaitions->translations, transitions, transactions,
 transalation->translation
@@ -28536,11 +28551,15 @@ tressle->trestle
 treting->treating
 trgistration->registration
 trhe->the
+trian->train
+trianed->trained
 triange->triangle
 trianglular->triangular
 trianglutaion->triangulation
 triangulataion->triangulation
 triangultaion->triangulation
+trianing->training
+trians->trains
 triger->trigger, tiger,
 trigered->triggered
 trigerred->triggered
@@ -28550,6 +28569,8 @@ trigged->triggered
 triggerd->triggered
 triggeres->triggers
 triggerred->triggered
+triggerring->triggering
+triggerrs->triggers
 triggger->trigger
 triguered->triggered
 trimed->trimmed
@@ -28571,11 +28592,20 @@ trnsfered->transferred
 trnsfers->transfers
 troling->trolling
 trottle->throttle
+trottled->throttled
+trottling->throttling
+troublehshoot->troubleshoot
+troublehshooting->troubleshooting
+troublshoot->troubleshoot
 troublshooting->troubleshooting
 troughput->throughput
 trought->through
 troup->troupe
 troups->troupes, troops,
+trriger->trigger
+trrigered->triggered
+trrigering->triggering
+trrigers->triggers
 trubble->trouble
 trubbled->troubled
 trubbles->troubles
