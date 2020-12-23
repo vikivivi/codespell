@@ -28195,6 +28195,7 @@ tragets->targets
 traiing->trailing, training,
 trailling->trailing
 trainig->training
+trainigs->trainings
 trainling->training
 trainng->training
 traked->tracked
@@ -28230,6 +28231,7 @@ tranforms->transforms
 tranient->transient
 tranients->transients
 tranistion->transition
+tranistioned->transitioned
 tranistioning->transitioning
 tranistions->transitions
 tranlatable->translatable
@@ -28246,6 +28248,8 @@ tranmitting->transmitting
 tranparent->transparent
 tranparently->transparently
 tranport->transport
+tranported->transported
+tranporting->transporting
 tranports->transports
 transacion->transaction
 transacions->transactions
@@ -28592,8 +28596,8 @@ trnsfered->transferred
 trnsfers->transfers
 troling->trolling
 trottle->throttle
-trottled->throttled
-trottling->throttling
+trottled->throttled, trotted,
+trottling->throttling, trotting,
 troublehshoot->troubleshoot
 troublehshooting->troubleshooting
 troublshoot->troubleshoot
