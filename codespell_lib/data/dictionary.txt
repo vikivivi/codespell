@@ -28193,23 +28193,33 @@ trageted->targeted
 trageting->targeting
 tragets->targets
 traiing->trailing, training,
-trailling->trailing
+trailling->trailing, trialling, trilling,
 trainig->training
 trainigs->trainings
 trainling->training
 trainng->training
+trainngs->trainings
 traked->tracked
 traker->tracker
 trakers->trackers
 traking->tracking
-traling->trailing, trialing,
-trama->trauma
+tral->trail, trial,
+traled->trailed, trialed, trawled, traced, traded, traveled,
+traling->trailing, trialing, trawling, tracing, trading, traveling,
+tralled->trailed, trialled, trilled, trolled, trawled, travelled,
+tralling->trailing, trialling, trilling, trolling, thralling, travelling,
+trals->trails, trials,
+trama->trauma, trams,
+tramas->traumas, trams,
 tramsmit->transmit
+tramsmits->transmits
 tramsmitted->transmitted
+tramsmitting->transmitting
 tranaction->transaction
 tranactional->transactional
 tranactions->transactions
 tranasction->transaction
+tranasctions->transactions
 tranceiver->transceiver
 tranceivers->transceivers
 trancendent->transcendent
